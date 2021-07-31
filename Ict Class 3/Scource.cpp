@@ -1,4 +1,4 @@
-#include <iostream>
+// Total and Average Marks
 #include <stdio.h>
 #include <conio.h>
 

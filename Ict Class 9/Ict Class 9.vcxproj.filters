@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ict Class 9.cpp">
+    <ClCompile Include="Scource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

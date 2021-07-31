@@ -1,7 +1,6 @@
-// Ict Class 5.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// This program asks two numbers and finds out which one is the bigger one
 
-#include <iostream>
+
 #include <stdio.h>
 #include <conio.h>
 

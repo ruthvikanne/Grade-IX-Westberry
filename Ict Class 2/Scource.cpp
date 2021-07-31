@@ -1,6 +1,7 @@
+// A Program to give out the input
 #include<stdio.h>
 #include<conio.h>
-#include<iostream>
+
 
 int main(void)
 {
