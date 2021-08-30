@@ -5,25 +5,27 @@ VisualStudioVersion = 17.0.31423.177
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello", "Ict Class 1\Ict Class 1.vcxproj", "{6A2118FE-2350-4065-AA81-415359637E66}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ict Class 2", "Ict Class 2\Ict Class 2.vcxproj", "{9D3DC0DC-0415-456F-B864-645E9EDA34BB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "In out", "Ict Class 2\Ict Class 2.vcxproj", "{9D3DC0DC-0415-456F-B864-645E9EDA34BB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Marks 1", "Ict Class 3\Ict Class 3.vcxproj", "{9DFB4F4E-4D0B-4638-8929-DB8A1913617E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculator 01", "Ict  Class 4\Ict  Class 4.vcxproj", "{559B9861-B991-4C4C-80A3-954C390508F1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ict Class 5", "Ict Class 5\Ict Class 5.vcxproj", "{5B79557B-6C71-4C9E-A087-6812D70A57BE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Big In 2", "Ict Class 5\Ict Class 5.vcxproj", "{5B79557B-6C71-4C9E-A087-6812D70A57BE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ict Class 6", "Ict Class 6\Ict Class 6.vcxproj", "{98E31D85-7E34-4396-9926-26BE7582403A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Voting", "Ict Class 6\Ict Class 6.vcxproj", "{98E31D85-7E34-4396-9926-26BE7582403A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ict Class 7", "Ict Class 7\Ict Class 7.vcxproj", "{6E065DD0-8C1B-4CB1-A1E9-F842DCA52DEC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Marks", "Ict Class 7\Ict Class 7.vcxproj", "{6E065DD0-8C1B-4CB1-A1E9-F842DCA52DEC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ict Class 8", "Ict Class 8\Ict Class 8.vcxproj", "{353862A2-53AA-4AC6-BE38-F20019834773}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Negative Positive", "Ict Class 8\Ict Class 8.vcxproj", "{353862A2-53AA-4AC6-BE38-F20019834773}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ict Class 9", "Ict Class 9\Ict Class 9.vcxproj", "{8B59C86F-1C27-4EAF-A2E3-3F8D7A52437B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Even Odd", "Ict Class 9\Ict Class 9.vcxproj", "{8B59C86F-1C27-4EAF-A2E3-3F8D7A52437B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ict Class 10", "Ict Class 10\Ict Class 10.vcxproj", "{CB079F0D-9FA1-4367-AF08-2480A282837B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Number Swap", "Ict Class 10\Ict Class 10.vcxproj", "{CB079F0D-9FA1-4367-AF08-2480A282837B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Greater Than Lesser Than in 3", "Ict Class 11\Ict Class 11.vcxproj", "{7A3698D2-8E32-441E-8184-FB1C07E7824C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Big in Three", "Big in Three\Big in Three.vcxproj", "{A8B992BD-C9C3-41D6-9C15-D9BC449D9F6E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Big In 3", "Ict Class 11\Ict Class 11.vcxproj", "{7A3698D2-8E32-441E-8184-FB1C07E7824C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -113,6 +115,14 @@ Global
 		{CB079F0D-9FA1-4367-AF08-2480A282837B}.Release|x64.Build.0 = Release|x64
 		{CB079F0D-9FA1-4367-AF08-2480A282837B}.Release|x86.ActiveCfg = Release|Win32
 		{CB079F0D-9FA1-4367-AF08-2480A282837B}.Release|x86.Build.0 = Release|Win32
+		{A8B992BD-C9C3-41D6-9C15-D9BC449D9F6E}.Debug|x64.ActiveCfg = Debug|x64
+		{A8B992BD-C9C3-41D6-9C15-D9BC449D9F6E}.Debug|x64.Build.0 = Debug|x64
+		{A8B992BD-C9C3-41D6-9C15-D9BC449D9F6E}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8B992BD-C9C3-41D6-9C15-D9BC449D9F6E}.Debug|x86.Build.0 = Debug|Win32
+		{A8B992BD-C9C3-41D6-9C15-D9BC449D9F6E}.Release|x64.ActiveCfg = Release|x64
+		{A8B992BD-C9C3-41D6-9C15-D9BC449D9F6E}.Release|x64.Build.0 = Release|x64
+		{A8B992BD-C9C3-41D6-9C15-D9BC449D9F6E}.Release|x86.ActiveCfg = Release|Win32
+		{A8B992BD-C9C3-41D6-9C15-D9BC449D9F6E}.Release|x86.Build.0 = Release|Win32
 		{7A3698D2-8E32-441E-8184-FB1C07E7824C}.Debug|x64.ActiveCfg = Debug|x64
 		{7A3698D2-8E32-441E-8184-FB1C07E7824C}.Debug|x64.Build.0 = Debug|x64
 		{7A3698D2-8E32-441E-8184-FB1C07E7824C}.Debug|x86.ActiveCfg = Debug|Win32
