@@ -3,11 +3,13 @@
 
 int Main()
 {
-<<<<<<< HEAD
-	int a, b, c;
+	int i,n;
 
-
-=======
+	printf("Enter The Number Of Numbers You Want");
+	scanf_s("%d", & n);
 	
->>>>>>> 2eb3093f296410aad30df71d49047a111294c4a2
+	for (i = 1; i <= n; i++)
+	{
+		printf("%d/t", i);
+	}
 }

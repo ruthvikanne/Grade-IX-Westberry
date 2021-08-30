@@ -24,7 +24,7 @@
     <ProjectGuid>{7a3698d2-8e32-441e-8184-fb1c07e7824c}</ProjectGuid>
     <RootNamespace>IctClass11</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Big In 3</ProjectName>
+    <ProjectName>Number Printer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
