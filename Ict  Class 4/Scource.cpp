@@ -1,7 +1,7 @@
-#include <iostream>
+//A Program to find the quotient , product, difference, total.
 #include <stdio.h>
 #include <conio.h>
-#include <math.h>
+
 
 int main()
 {
