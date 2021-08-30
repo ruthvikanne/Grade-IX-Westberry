@@ -25,7 +25,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Number Swap", "Ict Class 10
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Big in Three", "Big in Three\Big in Three.vcxproj", "{A8B992BD-C9C3-41D6-9C15-D9BC449D9F6E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Big In 3", "Ict Class 11\Ict Class 11.vcxproj", "{7A3698D2-8E32-441E-8184-FB1C07E7824C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Number Printer", "Ict Class 11\Ict Class 11.vcxproj", "{7A3698D2-8E32-441E-8184-FB1C07E7824C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "While Statement", "While Statement\While Statement.vcxproj", "{5943EEDA-938A-43EF-A36B-9A2E9ABE3C1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +133,14 @@ Global
 		{7A3698D2-8E32-441E-8184-FB1C07E7824C}.Release|x64.Build.0 = Release|x64
 		{7A3698D2-8E32-441E-8184-FB1C07E7824C}.Release|x86.ActiveCfg = Release|Win32
 		{7A3698D2-8E32-441E-8184-FB1C07E7824C}.Release|x86.Build.0 = Release|Win32
+		{5943EEDA-938A-43EF-A36B-9A2E9ABE3C1E}.Debug|x64.ActiveCfg = Debug|x64
+		{5943EEDA-938A-43EF-A36B-9A2E9ABE3C1E}.Debug|x64.Build.0 = Debug|x64
+		{5943EEDA-938A-43EF-A36B-9A2E9ABE3C1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5943EEDA-938A-43EF-A36B-9A2E9ABE3C1E}.Debug|x86.Build.0 = Debug|Win32
+		{5943EEDA-938A-43EF-A36B-9A2E9ABE3C1E}.Release|x64.ActiveCfg = Release|x64
+		{5943EEDA-938A-43EF-A36B-9A2E9ABE3C1E}.Release|x64.Build.0 = Release|x64
+		{5943EEDA-938A-43EF-A36B-9A2E9ABE3C1E}.Release|x86.ActiveCfg = Release|Win32
+		{5943EEDA-938A-43EF-A36B-9A2E9ABE3C1E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
